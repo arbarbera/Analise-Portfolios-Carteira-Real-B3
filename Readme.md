@@ -1,6 +1,6 @@
 # Motivação e Inspiração
 
-Meu interesse pessoal em pesquisas na área de finanças acabou me conduzindo ao GitHub e ao artigo de Ricky Kim[https://github.com/tthustla] que me inspirou a criar uma forma prática e, tanto quanto possível didática, de compartilhar os conhecimentos adquiridos ao longo de minha jornada pela análise de séries temporais, especialmente na língua Portuguesa que carece de publicações a respeito de portfólios diversificados de ativos.
+Meu interesse pessoal em pesquisas na área de finanças acabou me conduzindo ao GitHub e ao artigo de [Ricky Kim](https://github.com/tthustla) que me inspirou a criar uma forma prática, e tanto quanto possível didática, de compartilhar os conhecimentos adquiridos ao longo de minha jornada pela análise de séries temporais. Há enorme carência de artigos sobre o assunto de "Portfólios Diversificados, especialmente na língua Portuguesa.
 
 Séries temporais compõem um campo do conhecimento tão vasto quanto árido e é, atualmente, um dos menos conhecidos pelos cientistas de dados. Quando tratamos da Moderna Teoria dos Portfólios de Markowitz, o conhecimento fica mais distante, num país que não educa no ensino formal, muito menos, no que se refere à educação financeira. 
 
