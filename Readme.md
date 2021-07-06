@@ -6,7 +6,9 @@ Séries temporais compõem um campo do conhecimento tão vasto quanto árido e �
 
 Mais adiante, neste ensaio, estarmos utilizando o Método da Fronteira Eficiente, de Markowitz, para otimização do portfólio de ações em estudo.
 
-Usaremos Python e suas bibliotecas científicas e de visualização, ao longo deste trabalho. É preciso, portanto, que o leitor seja iniciado em Python, para melhor entendimento do conteúdo aqui exposto.  Os conceitos da Teoria Moderna de Portfólios foram aplicados a uma carteira real de ações, composta de ativos nacionais e originados na bolsa de valores brasileira, a B3 (Bovespa). O objetivo é o de compartilhar o conteúdo aqui produzido com o maior número possível de investidores, sejam brasileiros ou não, de modo a aproximá-los das fronteiras do retorno e do risco.
+Usaremos Python e suas bibliotecas científicas e de visualização, ao longo deste trabalho. É preciso, portanto, que o leitor seja iniciado em Python, para melhor entendimento do conteúdo aqui exposto.  Os conceitos da Teoria Moderna de Portfólios foram aplicados a uma carteira real de ações, composta de ativos nacionais e originados na bolsa de valores brasileira, a B3 (Bovespa). 
+
+Este artigo foi dividido em dois notebooks (Parte 1 e Parte 2), ambos publicados neste repositório. O objetivo é o de compartilhar o conteúdo aqui produzido com o maior número possível de investidores, sejam brasileiros ou não, de modo a aproximá-los das fronteiras da relação retorno x risco dos portfólios.
 
 Fico, portanto, à disposição.
 
